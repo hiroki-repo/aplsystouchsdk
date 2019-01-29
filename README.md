@@ -8,4 +8,4 @@ Third,You can compile aplsys touch application.
 
 Attention
 You cannot use windows native exe format execute file in aplsys touch!
-So,you must compile "start.ax" and rename to "eboot.exe" for dummy and aplsys touch execute file.
+So,you must compile "start.ax" and rename to "eboot.exe" for aplsys touch execute file.
