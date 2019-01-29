@@ -1,0 +1,2 @@
+#include "external/aplheader.as"
+mes "Hello World!"
