@@ -1,0 +1,4 @@
+memcard\app\DEMO00000\eboot.exe
+memcard\app\DEMO00000\app.png
+1
+Id Storage Viewer
