@@ -8,7 +8,10 @@ nowdir3=strmid(nowdir2,-1,9)
 if nowdir3="squwattos"{break}
 chdir ".."
 loop
+exist "vs0/app/SQFS00025/idstorage"+str(key)+".img"
+if strsize=-1{}else{
 bload "vs0/app/SQFS00025/idstorage"+str(key)+".img",idsbuffer,512,0
+}
 chdir nowdir
 return
 
